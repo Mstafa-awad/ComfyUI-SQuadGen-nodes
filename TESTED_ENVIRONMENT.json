@@ -1,0 +1,13 @@
+{
+  "torch": "2.8.0+cu128",
+  "torchvision": "0.23.0+cu128",
+  "pymeshlab": "2025.7.post1",
+  "trimesh": "5.1.0",
+  "point-cloud-utils": "0.34.0",
+  "torchdiffeq": "0.2.5",
+  "timm": "1.0.22",
+  "torch-cluster": "1.6.3+pt28cu128",
+  "ocnn": "2.3.3",
+  "safetensors": "0.8.0",
+  "comfyui_commit": "3c1b7a17fdf239d35ce98cc777756f572d089795"
+}

@@ -1,0 +1,11 @@
+{
+  "squadgen_base_commit": "b00a83b6f2068b9e66cbf195978dbe9c084108ee",
+  "quadtools_base_commit": "79690defa830dbfe97f01a05945761ed057322aa",
+  "squadgen_source": "https://github.com/microsoft/SQuadGen",
+  "quadtools_source": "https://github.com/xueyuhanlang/QuadTools4SquadGen",
+  "weights_bundled": false,
+  "character_cage_backend_bundled": false,
+  "default_extraction": "standard",
+  "loop_score": "min(Fratio,Eratio), face-count-weighted over output components",
+  "tested_platform": "Windows x64, Python 3.12.10, Torch 2.8.0+cu128, RTX 5050 Laptop 8 GB"
+}

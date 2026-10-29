@@ -1,0 +1,5 @@
+ckpts/*
+!ckpts/README.md
+__pycache__/
+*.pyc
+results/
